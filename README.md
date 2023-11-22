@@ -1,1 +1,2 @@
 # odin-recipes
+HTML project as part of the odin project. By the end of this project I will have showcased the abilities that I have learnt so far such as creating a html boilerplate, and multiple pages with links between.
